@@ -83,6 +83,16 @@ The Excel workbook contains the following sections:
 - Valuation sensitivity analysis
 - Financial data interpretation
 
+  ## Model Screenshots
+
+### DCF Valuation
+
+![DCF Valuation](dcf_valuation.png)
+
+### Sensitivity Analysis
+
+![Sensitivity Analysis](sensitivity_analysis.png)
+
 ## Disclaimer
 
 This project is for educational and portfolio purposes only and does not constitute investment advice.
